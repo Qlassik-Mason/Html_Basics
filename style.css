@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght,XOPQ,XTRA,YOPQ,YTDE,YTFI,YTLC,YTUC@8..144,100..1000,96,468,79,-203,738,514,712&family=Roboto+Slab:wght@100..900&display=swap');
+
+ 
+ 
+ #blue-bordered {
+	color : red ;
+	font-family : roboto ;
+	text-align : start ;
+    border: 3px double #000000cc ;
+}
+
+.box p {
+				color : red ;
+		}
+
+
+
+        
+article > p,div {
+    font-weight : bold ;
+    background-color : #333 ;
+    color : #fff ;
+    padding : .5em ;
+}
+
+h1 + p {
+    font-weight : bold ;
+    background-color : #333 ;
+    color : #fff ;
+    padding : .5em ;
+}   
+ a {
+        color:yellow;
+    }
+    
+a:visited{
+          color : tomato ;
+
+}  
+
+a:active{
+          color : blue ;
+    
+        }
+
+
+.btn1:hover {
+    color:tomato;
+    background-color: tomato;
+    
+   
+}
+
+.btn1:visited{
+    
+    background-color: rgba(0, 0, 0, 0.902);
+}
+
+
+
+     
+     
+
+ 
